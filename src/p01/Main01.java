@@ -25,5 +25,7 @@ public class Main01 {
 		// ArithmeticExceptionが発生する可能背！
 		// 0で割り算をすると発生
 		System.out.println("a / b =" + numbers[0] / numbers[1] + "あまり" + numbers[0] % numbers[1]);
+		
+		sc.close();
 	}
 }
